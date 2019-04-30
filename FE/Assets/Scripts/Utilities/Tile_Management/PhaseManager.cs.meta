@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a861ecdfa38c5f942abfa69390d45913
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - crosshairPrefab: {fileID: 7269588250530226123, guid: 74a81ec3e0c57b143a9713f8c4370dd1,
+      type: 3}
+  - arrowPrefab: {fileID: 8648567997536284637, guid: 3564ab49d880d5945ae9fbfd1aebff42,
+      type: 3}
+  - blueHighlightPrefab: {fileID: 9193602046702113671, guid: 2f04e1ba06c85224ba4f96b748622585,
+      type: 3}
+  - redHighlightPrefab: {fileID: 3474925779665737672, guid: e68fbe4000d53a24c9aaa32302a95b20,
+      type: 3}
+  - greenHighlightPrefab: {fileID: 9065300686661835250, guid: 93a11cadca0578a4bbffeaa3cc95985f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,989 @@
+fileFormatVersion: 2
+guid: 24fcefdb757f4a6449ac593db1e00721
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 734730051917741429
+    second: Mage_F_Player_Attack_00
+  - first:
+      213: -6502512347235238908
+    second: Mage_F_Player_Attack_01
+  - first:
+      213: -8295021840895215597
+    second: Mage_F_Player_Attack_02
+  - first:
+      213: 2278037038737876125
+    second: Mage_F_Player_Attack_03
+  - first:
+      213: -8166500716181726257
+    second: Mage_F_Player_Attack_04
+  - first:
+      213: -478571980178119650
+    second: Mage_F_Player_Attack_05
+  - first:
+      213: -6622357403754042807
+    second: Mage_F_Player_Attack_06
+  - first:
+      213: 7772352182888246737
+    second: Mage_F_Player_Attack_07
+  - first:
+      213: -1970555330743433550
+    second: Mage_F_Player_Attack_08
+  - first:
+      213: -7949054518680791987
+    second: Mage_F_Player_Attack_09
+  - first:
+      213: 9026383421719156628
+    second: Mage_F_Player_Attack_10
+  - first:
+      213: 1997155672535345812
+    second: Mage_F_Player_Attack_11
+  - first:
+      213: 3011099815526322879
+    second: Mage_F_Player_Attack_12
+  - first:
+      213: 5453121254275648120
+    second: Mage_F_Player_Attack_13
+  - first:
+      213: -6760104362314362501
+    second: Mage_F_Player_Attack_14
+  - first:
+      213: 1961967830785032340
+    second: Mage_F_Player_Attack_15
+  - first:
+      213: 128701629032742970
+    second: Mage_F_Player_Attack_16
+  - first:
+      213: 2335276679316166987
+    second: Mage_F_Player_Attack_17
+  - first:
+      213: -7354263150204011817
+    second: Mage_F_Player_Attack_18
+  - first:
+      213: -1886003879686382025
+    second: Mage_F_Player_Attack_19
+  - first:
+      213: -6177549273000017872
+    second: Mage_F_Player_Attack_20
+  - first:
+      213: 6261607895010881240
+    second: Mage_F_Player_Crit_00
+  - first:
+      213: 8558250850565161548
+    second: Mage_F_Player_Crit_01
+  - first:
+      213: 8448304664214089937
+    second: Mage_F_Player_Crit_02
+  - first:
+      213: -2300785836037012135
+    second: Mage_F_Player_Crit_03
+  - first:
+      213: -598467371226988528
+    second: Mage_F_Player_Crit_04
+  - first:
+      213: 4263762893558568428
+    second: Mage_F_Player_Crit_05
+  - first:
+      213: 195038334338292918
+    second: Mage_F_Player_Crit_06
+  - first:
+      213: -468399955262564780
+    second: Mage_F_Player_Crit_07
+  - first:
+      213: -650839648674923210
+    second: Mage_F_Player_Crit_08
+  - first:
+      213: 6646741048644588504
+    second: Mage_F_Player_Crit_09
+  - first:
+      213: -1481008307926618889
+    second: Mage_F_Player_Crit_10
+  - first:
+      213: -6978232156699641188
+    second: Mage_F_Player_Crit_11
+  - first:
+      213: 3916841913893617501
+    second: Mage_F_Player_Crit_12
+  - first:
+      213: -592264977040050843
+    second: Mage_F_Player_Crit_13
+  - first:
+      213: 9100174374605699621
+    second: Mage_F_Player_Dodge_00
+  - first:
+      213: -8791899057545802348
+    second: Mage_F_Player_Dodge_01
+  externalObjects: {}
+  serializedVersion: 8
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_00
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 114
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6865b6339935dfd4b8141caf64d94fb5
+      internalID: 734730051917741429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_01
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 114
+        width: 29
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fdac3956234ae4b8ec865fb989b561
+      internalID: -6502512347235238908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_02
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 115
+        width: 28
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478e3092f0dda7c47b61c6dd19a56726
+      internalID: -8295021840895215597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_03
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 115
+        width: 28
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec255eb84f191d4d931e6194be17640
+      internalID: 2278037038737876125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_04
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 114
+        width: 25
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c9402bd22406341b508c3c19133f3c
+      internalID: -8166500716181726257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_05
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 114
+        width: 22
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cfd9ad62201bd44ba2158ab536c4c1
+      internalID: -478571980178119650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_06
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 114
+        width: 29
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa7f31666315e041b16e631312c1d31
+      internalID: -6622357403754042807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_07
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 113
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6060e725aa3bb0b4e99f6dee8b2a3991
+      internalID: 7772352182888246737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_08
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 112
+        width: 34
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26d50747b7e51c44a7393bb00ea914e
+      internalID: -1970555330743433550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_09
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 111
+        width: 37
+        height: 27
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144b642f28439ec4592c3b6a662794c9
+      internalID: -7949054518680791987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 111
+        width: 40
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd4f949988a5294b9b42c614cbb6ed2
+      internalID: 9026383421719156628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 110
+        width: 38
+        height: 35
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f965037aa3c50e640ae8dafd2a7c7771
+      internalID: 1997155672535345812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 77
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3314e9280fdb4714dbee9a474af74284
+      internalID: 3011099815526322879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 77
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fdd40ec65b82f4a871298ae66e9173
+      internalID: 5453121254275648120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 77
+        width: 38
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891afeaa8b9412e40a93543c7219f7bd
+      internalID: -6760104362314362501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 76
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de97b09454ede9c4090bcfc6c33587a5
+      internalID: 1961967830785032340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 77
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252cfab15a1ae0542ac430133d84010d
+      internalID: 128701629032742970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 77
+        width: 37
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39c8de7a28f8a74f8fb33f7bc914299
+      internalID: 2335276679316166987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 76
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de23b4ae054ae454e924d4dc54e95688
+      internalID: -7354263150204011817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 76
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ee3226c8d8aa24fae1e4291a9f7722
+      internalID: -1886003879686382025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 75
+        width: 23
+        height: 28
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8526cf24a6352c546930273251b64bc5
+      internalID: -6177549273000017872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Crit_00
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 74
+        width: 22
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2280793a9d8b35e48955d98b84ef7f86
+      internalID: 6261607895010881240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Crit_01
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 74
+        width: 25
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df82556706cbc54ab18cb767a104245
+      internalID: 8558250850565161548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Crit_02
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 75
+        width: 30
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c41210fad881541b7ae25f56d4d5a4
+      internalID: 8448304664214089937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Crit_03
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 40
+        width: 29
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8425d9e0a7a6aa44b47a912dedf62be
+      internalID: -2300785836037012135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Crit_04
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 40
+        width: 32
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c85cee74d86b44fb5bcbaeb6e2157c
+      internalID: -598467371226988528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Crit_05
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 40
+        width: 34
+        height: 25
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172fe62f1c7579740af09af04fb57762
+      internalID: 4263762893558568428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Crit_06
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 41
+        width: 26
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f71ce400b6e1a4d9406543702b041c
+      internalID: 195038334338292918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Crit_07
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 41
+        width: 28
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b2b17416bce694c8cb4fca3a6dceb7
+      internalID: -468399955262564780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Crit_08
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 39
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe1fc4a565107842a7c25c0581c4fb9
+      internalID: -650839648674923210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Crit_09
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 37
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0c230e0b230d844808af0deacebcbb
+      internalID: 6646741048644588504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Crit_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 36
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5bb6dcc5a624c4baf721be4f2ac00a
+      internalID: -1481008307926618889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Crit_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 35
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63718aaf0ca20bc449d33c5e187c9216
+      internalID: -6978232156699641188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Crit_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 34
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72392cc7e7f1bbf4bb0263e96d235a02
+      internalID: 3916841913893617501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Crit_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 33
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f6190220554b34aa329743968c80b1
+      internalID: -592264977040050843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Dodge_00
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 28
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba6d3c1ddf11aa4da7d0eaedddbd686
+      internalID: 9100174374605699621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Player_Dodge_01
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 26
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21cafb2a24fa7a4181796042ce11647
+      internalID: -8791899057545802348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2d48a966ead55504d94d0585bc674690
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

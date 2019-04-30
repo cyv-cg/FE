@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_GeneratorAsset: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 6c5a50299454eaa4a81ab45978c1f88f, type: 3}
+  m_Name: Killing Edge
+  m_EditorClassIdentifier: 
+  icon: {fileID: 5625766588564673634, guid: 3032b4de0755d214cb0d84df473ce879, type: 3}
+  uses: 20
+  unbreakable: 0
+  cost: 1300
+  consumable: 0
+  type: 1
+  affinity: 0
+  target: 12
+  classRestriction: 0
+  isPhysical: 1
+  weight: 7
+  might: 9
+  hit: 0.8
+  crit: 0.3
+  range: 1
+  rangedClosedSet: 1
+  closedSetMin: 1

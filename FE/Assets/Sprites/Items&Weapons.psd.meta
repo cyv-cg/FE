@@ -1,0 +1,3407 @@
+fileFormatVersion: 2
+guid: 3032b4de0755d214cb0d84df473ce879
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1246115631809323747
+    second: iron_sword
+  - first:
+      213: -7691505314648467641
+    second: slim_sword
+  - first:
+      213: -8299610642302969883
+    second: steel_sword
+  - first:
+      213: 1745938184366075112
+    second: wo_dao
+  - first:
+      213: -926125316931964716
+    second: iron_blade
+  - first:
+      213: 711187103269447391
+    second: steel_blade
+  - first:
+      213: 5750663547844924908
+    second: silver_blade
+  - first:
+      213: 2782004158605002254
+    second: poison_sword
+  - first:
+      213: 1627598890692220581
+    second: rapier
+  - first:
+      213: 5625766588564673634
+    second: killing_edge
+  - first:
+      213: 2004719381573615653
+    second: armorslayer
+  - first:
+      213: 5451998931744199851
+    second: wyrmslayer
+  - first:
+      213: -5229942619426966168
+    second: light_brand
+  - first:
+      213: 5956735835299882657
+    second: runesword
+  - first:
+      213: 9067116237904576531
+    second: lancereaver
+  - first:
+      213: 2404159085618638812
+    second: brave_sword
+  - first:
+      213: 175216651537921589
+    second: durandal
+  - first:
+      213: -1183644805684443625
+    second: silver_sword
+  - first:
+      213: -4330884416451896588
+    second: binding_blade
+  - first:
+      213: -6277589759245768823
+    second: eckesachs
+  - first:
+      213: -2050892677364397800
+    second: iron_lance
+  - first:
+      213: -9121597045967349103
+    second: slim_lance
+  - first:
+      213: 599770322985510479
+    second: steel_lance
+  - first:
+      213: 2174226825591071825
+    second: silver_lance
+  - first:
+      213: 114980499731048169
+    second: poison_lance
+  - first:
+      213: -7935998261690911272
+    second: brave_lance
+  - first:
+      213: 1100957078124382933
+    second: killer_lance
+  - first:
+      213: 4436680447533725588
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_37
+  - first:
+      213: -6505130298865107074
+    second: javalin_lance
+  - first:
+      213: -1572755149239628026
+    second: spear
+  - first:
+      213: 1920626457435282499
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_40
+  - first:
+      213: -7729544575075251303
+    second: axereaver
+  - first:
+      213: 4380226121681119358
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_42
+  - first:
+      213: 9049016866270872099
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_43
+  - first:
+      213: -2181970109711007022
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_44
+  - first:
+      213: 6177610951976887254
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_45
+  - first:
+      213: -2197303691539956575
+    second: gant's_lance
+  - first:
+      213: 9099907519626689729
+    second: horseslayer
+  - first:
+      213: 6024674817724894530
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_48
+  - first:
+      213: 7930675791458623647
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_49
+  - first:
+      213: -3021665816445728382
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_50
+  - first:
+      213: -8454938831737723396
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_51
+  - first:
+      213: -8119680843473066480
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_52
+  - first:
+      213: 1863659225348832820
+    second: maltet
+  - first:
+      213: 5698023113435674143
+    second: iron_axe
+  - first:
+      213: 8396866902427545817
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_55
+  - first:
+      213: 7639940974203424308
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_56
+  - first:
+      213: -7193774537857358607
+    second: steel_axe
+  - first:
+      213: 7348262696576509862
+    second: silver_axe
+  - first:
+      213: 2778004206035784037
+    second: poison_axe
+  - first:
+      213: 6537689319769383295
+    second: brave_axe
+  - first:
+      213: -9088952557995067562
+    second: killer_axe
+  - first:
+      213: -8410748769829658661
+    second: halberd
+  - first:
+      213: 3232899256840767084
+    second: hammer
+  - first:
+      213: -6139248027188799594
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_64
+  - first:
+      213: -7845206054631474423
+    second: devilaxe
+  - first:
+      213: 8638186856525156529
+    second: hand_axe
+  - first:
+      213: -7716558721375216808
+    second: tomahawk
+  - first:
+      213: -1885260830943332817
+    second: swordreaver
+  - first:
+      213: 8474395541130785361
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_69
+  - first:
+      213: 2174560751341609171
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_70
+  - first:
+      213: -6710453351209883060
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_71
+  - first:
+      213: -2480573754137875277
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_72
+  - first:
+      213: 185746731997591123
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_73
+  - first:
+      213: -5047186688026646768
+    second: armads
+  - first:
+      213: 1900795823149527584
+    second: iron_bow
+  - first:
+      213: -6725973639111839704
+    second: steel_bow
+  - first:
+      213: 608554244455387145
+    second: silver_bow
+  - first:
+      213: -2824516635327579109
+    second: poison_bow
+  - first:
+      213: -9040706821083134233
+    second: killer_bow
+  - first:
+      213: 6692486630089564948
+    second: brave_bow
+  - first:
+      213: 7809629382725512308
+    second: short_bow
+  - first:
+      213: -4387982658694648213
+    second: long_bow
+  - first:
+      213: -6081876150687167209
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_83
+  - first:
+      213: 7534078354014655271
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_84
+  - first:
+      213: 4435060429888872726
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_85
+  - first:
+      213: 5447565611757551833
+    second: murgleis
+  - first:
+      213: -1364590618895689042
+    second: ballista
+  - first:
+      213: 4217325121158499703
+    second: long_ballista
+  - first:
+      213: 5536112614808393273
+    second: killer_ballista
+  - first:
+      213: -1578347596430539968
+    second: fire
+  - first:
+      213: 3772158888676860325
+    second: aircalibur
+  - first:
+      213: 2340497759801474155
+    second: thunder
+  - first:
+      213: -6466891740105065485
+    second: elfire
+  - first:
+      213: -7727599053530533009
+    second: bolting
+  - first:
+      213: -2901110845801244812
+    second: fimbulvetr
+  - first:
+      213: 4556318532181987015
+    second: forblaze
+  - first:
+      213: 8018578481503085740
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_97
+  - first:
+      213: 1468338091023045654
+    second: lightning
+  - first:
+      213: 1487967758936064158
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_99
+  - first:
+      213: -9004077596534981856
+    second: divine
+  - first:
+      213: 1489230234532806012
+    second: purge
+  - first:
+      213: -7463370801681356939
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_102
+  - first:
+      213: -6052780946975586799
+    second: aureola
+  - first:
+      213: 620443688306374818
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_104
+  - first:
+      213: -4887962850692912803
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_105
+  - first:
+      213: 7626681016910239160
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_106
+  - first:
+      213: -6937146939594081725
+    second: flux
+  - first:
+      213: 2147184563318051216
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_108
+  - first:
+      213: -2897889827166244197
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_109
+  - first:
+      213: -1879821538696766916
+    second: nosferatu
+  - first:
+      213: 332762285868344918
+    second: eclipse
+  - first:
+      213: -4693721251966078358
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_112
+  - first:
+      213: -2682622557244427491
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_113
+  - first:
+      213: 1773895924668320172
+    second: fenrir
+  - first:
+      213: -8579934786845072693
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_115
+  - first:
+      213: -5892253602556784527
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_116
+  - first:
+      213: 1047071517640806039
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_117
+  - first:
+      213: -373961734173122919
+    second: apocalypse
+  - first:
+      213: 82183916792477377
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_119
+  - first:
+      213: -8774151042486680130
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_120
+  - first:
+      213: -6844282103282534696
+    second: heal
+  - first:
+      213: -1670866173598277248
+    second: mend
+  - first:
+      213: 4386593194364368444
+    second: recover
+  - first:
+      213: -1809956254025365527
+    second: psychic
+  - first:
+      213: -5420560775102035516
+    second: fortify
+  - first:
+      213: -4924657052409916235
+    second: restore
+  - first:
+      213: 4860985948916607051
+    second: silence
+  - first:
+      213: -1480434667522532875
+    second: sleep
+  - first:
+      213: 8167225264352681095
+    second: berserk
+  - first:
+      213: -4833762985015212372
+    second: warp
+  - first:
+      213: -5916191059063449800
+    second: rescue
+  - first:
+      213: 5060761411125208827
+    second: torch_staff
+  - first:
+      213: -5542651182833167348
+    second: hammerne
+  - first:
+      213: -5961734624205732693
+    second: unlock
+  - first:
+      213: 9044121336673116955
+    second: barrier
+  - first:
+      213: -1302094630695322359
+    second: watch
+  - first:
+      213: 3834435255346115093
+    second: tiena's_staff
+  - first:
+      213: 3605277459701692609
+    second: saint's_staff
+  - first:
+      213: 5939284923432922898
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_139
+  - first:
+      213: -7917515509287211358
+    second: chest_key
+  - first:
+      213: -7222886574473856895
+    second: door_key
+  - first:
+      213: -4700090927926351327
+    second: bridge_key
+  - first:
+      213: 6314508757463362483
+    second: lockpick
+  - first:
+      213: -7939761124298244524
+    second: energy_ring
+  - first:
+      213: 4210346602212083084
+    second: body_ring
+  - first:
+      213: 43007804632870833
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_146
+  - first:
+      213: 631606100459994256
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_147
+  - first:
+      213: 6089165020300298753
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_148
+  - first:
+      213: 19388318808967676
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_149
+  - first:
+      213: -6056938144041845974
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_150
+  - first:
+      213: -7498195984816776731
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_151
+  - first:
+      213: 3544685270448732184
+    second: guiding_ring
+  - first:
+      213: -810046901923352246
+    second: dragonshield
+  - first:
+      213: -2472120055926370080
+    second: hero_crest
+  - first:
+      213: 5964578002811450202
+    second: knight's_crest
+  - first:
+      213: 380836396386000244
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_156
+  - first:
+      213: -2360073491436024656
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_157
+  - first:
+      213: -8828746226362026607
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_158
+  - first:
+      213: 1117830527966305832
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_159
+  - first:
+      213: -8804600653904385663
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_160
+  - first:
+      213: -1193090871762163222
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_161
+  - first:
+      213: 779203661993171476
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_162
+  - first:
+      213: 5692480967017039302
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_163
+  - first:
+      213: 3888986671535299691
+    second: boots
+  - first:
+      213: 5591229435904483802
+    second: speedwing
+  - first:
+      213: 6493091084484187194
+    second: godess_icon
+  - first:
+      213: -1812274450374587648
+    second: firestone
+  - first:
+      213: 5171271460371904365
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_168
+  - first:
+      213: 3603218494319305338
+    second: divinestone
+  - first:
+      213: 80858560719426276
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_170
+  - first:
+      213: -7789609212867748921
+    second: talisman
+  - first:
+      213: 9157355821654373871
+    second: white_gem
+  - first:
+      213: 5774583741385265841
+    second: blue_gem
+  - first:
+      213: -3143589595945348343
+    second: red_gem
+  - first:
+      213: -7159707356373103736
+    second: black_gem
+  - first:
+      213: -9070860309571739083
+    second: yellow_gem
+  - first:
+      213: 6841806919332939840
+    second: member_card
+  - first:
+      213: 4020820518640644614
+    second: silver_card
+  - first:
+      213: 603775567878084240
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_179
+  - first:
+      213: 8145850853907420379
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_180
+  - first:
+      213: -5487601484865927494
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_181
+  - first:
+      213: 3099662342988675458
+    second: vulnerary
+  - first:
+      213: -6267162564954228913
+    second: elixir
+  - first:
+      213: 2490432491220763586
+    second: pure_water
+  - first:
+      213: -4288410710918215881
+    second: antitoxin
+  - first:
+      213: -4004090800227356229
+    second: gold
+  - first:
+      213: -781486546915051268
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_187
+  - first:
+      213: -297196455825035778
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_188
+  - first:
+      213: 9120645472147884783
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_189
+  - first:
+      213: -3338843032067401047
+    second: delphi_shield
+  - first:
+      213: 1578078511310183280
+    second: angelic_robe
+  - first:
+      213: -912202908753071966
+    second: orion's_bolt
+  - first:
+      213: 6949621276359654982
+    second: elysian_whip
+  - first:
+      213: -8781943664634440989
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_194
+  - first:
+      213: 8262628709412208818
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_195
+  - first:
+      213: 3619707905807462009
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_196
+  - first:
+      213: -7848739464912830397
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_197
+  - first:
+      213: 1586545910023316535
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_198
+  - first:
+      213: -8499836938151951461
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_199
+  - first:
+      213: 3506453600378996729
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_200
+  - first:
+      213: 6930069788769293820
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_201
+  - first:
+      213: -6167331184523913937
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_202
+  - first:
+      213: 5024344684642351524
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_203
+  - first:
+      213: -8502038475161927487
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_204
+  - first:
+      213: 1001660047735715269
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_205
+  - first:
+      213: 2048781916099560566
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_206
+  - first:
+      213: 1077412183566544820
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_207
+  - first:
+      213: -6154283547859276767
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_208
+  - first:
+      213: 1494525777375920427
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_209
+  - first:
+      213: -2737665527823577020
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_210
+  - first:
+      213: 6357647138656082521
+    second: dark_breath
+  - first:
+      213: 4852452225443525980
+    second: Game Boy Advance - Fire Emblem The Binding Blade - Item Icons_212
+  - first:
+      213: 7714765165796668683
+    second: secret_book
+  - first:
+      213: 9143032850372612229
+    second: torch_item
+  - first:
+      213: -3750027816331632142
+    second: thunderstone
+  externalObjects: {}
+  serializedVersion: 8
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: iron_sword
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8425102000c9004abf9a58edbe73c33
+      internalID: 1246115631809323747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slim_sword
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cca17518bb7b64a84b1fc70bf50106
+      internalID: -7691505314648467641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steel_sword
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac35de60dceee3140aad904724ed3465
+      internalID: -8299610642302969883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wo_dao
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83cb6ea69c4e4946bfa182237d3a961
+      internalID: 1745938184366075112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron_blade
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269bd660ad9d8a647b0d798d337eb357
+      internalID: -926125316931964716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steel_blade
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a35f9bb5996e024eaf621e4fb84b435
+      internalID: 711187103269447391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silver_blade
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c524ca7fc37e3a4469e315b5340c4f71
+      internalID: 5750663547844924908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison_sword
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d088d3cfe60f543bc4b70d0b6ef16a
+      internalID: 2782004158605002254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rapier
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82eafbbce7fa7843a17371a2516eff6
+      internalID: 1627598890692220581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killing_edge
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2277ae4b1c25f45b34e2a979b97ddb
+      internalID: 5625766588564673634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armorslayer
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4544c88a0b175d48b4336f17e6ad522
+      internalID: 2004719381573615653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyrmslayer
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d475320edcb856e4f953e6f493ba6f92
+      internalID: 5451998931744199851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_brand
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f30fd4a18ed4e449489c466b5dc21a
+      internalID: -5229942619426966168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runesword
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a6a89a57b6c914bab57dd5792a7f7d
+      internalID: 5956735835299882657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lancereaver
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ffeaf2937b6114d8e79fb0aa5e18c2
+      internalID: 9067116237904576531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brave_sword
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aeb7a6ed1cf3b42b7bf942207f0cdc
+      internalID: 2404159085618638812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durandal
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5744349b8454c40b53c1253263ff34
+      internalID: 175216651537921589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silver_sword
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276996f75ba629347922a40b16622928
+      internalID: -1183644805684443625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding_blade
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf9d33cb9e620f409c51d4dca5b0a29
+      internalID: -4330884416451896588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eckesachs
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d56c93d7561f242baaa59e93aa279b
+      internalID: -6277589759245768823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron_lance
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be44f6426c8029488dedd5c552d4a06
+      internalID: -2050892677364397800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slim_lance
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66097349165c8841b338b8a1c6e5bce
+      internalID: -9121597045967349103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steel_lance
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163e299f6c1057149b2b9ed53ba3f8d4
+      internalID: 599770322985510479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silver_lance
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb33a4fcacdcbd45a23d2a6cb44bd08
+      internalID: 2174226825591071825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison_lance
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741a91eeae1fca14784192c32f1e3c66
+      internalID: 114980499731048169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brave_lance
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52868b3f5ed3d5d46a0193170ffe2f79
+      internalID: -7935998261690911272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killer_lance
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9adf74da180a34abdfa39a0a01a23c
+      internalID: 1100957078124382933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: javalin_lance
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c70a27a66707aa42a9e04d5f1e298b8
+      internalID: -6505130298865107074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1866e3e7a42c3bf429f08eaae7da09fb
+      internalID: -1572755149239628026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axereaver
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d9e4c0f4edb4b4a933e258c8804e08
+      internalID: -7729544575075251303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gant's_lance
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eb2d44b03d64f44a46f53f7ff23660
+      internalID: -2197303691539956575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseslayer
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700467b9bf4377047a65281517c7d2e8
+      internalID: 9099907519626689729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maltet
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4c43890c2ce4343b88c8aaa992bda6
+      internalID: 1863659225348832820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron_axe
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ca6adc16a90164380c5ac55e851415
+      internalID: 5698023113435674143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steel_axe
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf932e372883ad47a53661dbe60107b
+      internalID: -7193774537857358607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silver_axe
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2674e653879af408afa8e691cbf6c9
+      internalID: 7348262696576509862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison_axe
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cd2bb64f074aa428967d6d8de1c10d
+      internalID: 2778004206035784037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brave_axe
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bf454f87be28b40a014b5b0fe36c41
+      internalID: 6537689319769383295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killer_axe
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac23d91e1a239042b7c0192f5987702
+      internalID: -9088952557995067562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a8a433af45c2746ac8eaf28d268536
+      internalID: -8410748769829658661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e74dd61fabf44243ad60a2be1024f43
+      internalID: 3232899256840767084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devilaxe
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5afc0973c829954791b117a50028a53
+      internalID: -7845206054631474423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_axe
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b215d20e4a5fce947919223df86e24f2
+      internalID: 8638186856525156529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomahawk
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3ff80d435759040ad0bc7f94fc3745
+      internalID: -7716558721375216808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordreaver
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c430a86e3c32d42a67f4415f3d3c34
+      internalID: -1885260830943332817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armads
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2162f7ebe534b4790bdaf75373096b
+      internalID: -5047186688026646768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron_bow
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e1a1c7519aceb4e976068fef0b10aa
+      internalID: 1900795823149527584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steel_bow
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4474d5267a691bf45acdf010e73bcb43
+      internalID: -6725973639111839704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silver_bow
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0eb16179940204b8d1fccec88ebc1b
+      internalID: 608554244455387145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison_bow
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e9ec41ac32cfb43ad86a7a3be771af
+      internalID: -2824516635327579109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killer_bow
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7140ba5c62fde74aaadd1f7da81e451
+      internalID: -9040706821083134233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brave_bow
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11355c85158064c47957ff3fa9ca3255
+      internalID: 6692486630089564948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: short_bow
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfe67454a2a1e24ba76571ae58d348f
+      internalID: 7809629382725512308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long_bow
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd11357bb8e22742bab1f7a3959e466
+      internalID: -4387982658694648213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: murgleis
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e775e260b3ace0f4cae195c8b67c04ec
+      internalID: 5447565611757551833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dad2ace6affb94799656ca1477fde5
+      internalID: -1364590618895689042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long_ballista
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3c15b3d1181dc4a9cf9f9a45514ee6
+      internalID: 4217325121158499703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killer_ballista
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f043d59f98445f43be20538d159113f
+      internalID: 5536112614808393273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9994cf03865a5f44d93bf433169fbbe5
+      internalID: -1578347596430539968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aircalibur
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbe517f5052b1d46a710108ff259ac5
+      internalID: 3772158888676860325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b234746a067824bbe8fa770dc0bbe5
+      internalID: 2340497759801474155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfire
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1848589fbbb95c4b98f35f8c18cce46
+      internalID: -6466891740105065485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolting
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939abea1f54f5de4ca9967631657d6e5
+      internalID: -7727599053530533009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fimbulvetr
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d452a2ca43f784c8f3131aa86cf1af
+      internalID: -2901110845801244812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forblaze
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18916739ba909a4a927d0c686d01998
+      internalID: 4556318532181987015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1fbd7929397654eb706979f2201674
+      internalID: 1468338091023045654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e403005e6f484249a6f03cf4fba4695
+      internalID: -9004077596534981856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purge
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1a2009136afc446a3884be174f7208
+      internalID: 1489230234532806012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aureola
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dfaf53a8819c249af667205a43fccf
+      internalID: -6052780946975586799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flux
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8e3f5214dd7c04db6002da7230ad6d
+      internalID: -6937146939594081725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nosferatu
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ea7103922f9943bece3b60f0d27b9
+      internalID: -1879821538696766916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bdb2f90e27bef42b8b0c5af43d283c
+      internalID: 332762285868344918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a41623a7e464d46a446f76e7015477
+      internalID: 1773895924668320172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de0be39d426ddb44aed9980e14f27cb
+      internalID: -373961734173122919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2af50d9ef1f2d41a869f30770a990b
+      internalID: -6844282103282534696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mend
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039c0e8f290c15b4eacdffd6e627abcb
+      internalID: -1670866173598277248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58adc20229165cb4897a40c86bf933d1
+      internalID: 4386593194364368444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psychic
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ac7553b85d3ea47b09ba3866912244
+      internalID: -1809956254025365527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortify
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae916aaef4318e478e85a8c4d380378
+      internalID: -5420560775102035516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: restore
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7bbf9156bf8284ca37fd5e114f154d
+      internalID: -4924657052409916235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silence
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b16fe7c7f59ee4ab778cbfb8466e7b
+      internalID: 4860985948916607051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c5789e839666b4dae73b671af8b95d
+      internalID: -1480434667522532875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserk
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cca8d5f91ae4c469cc9ed98704a335
+      internalID: 8167225264352681095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3492ab00a71f7044bb1da5dca01c9534
+      internalID: -4833762985015212372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rescue
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeaf2db3e3d8c74a80127df695a37f6
+      internalID: -5916191059063449800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_staff
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb6c19b74ab7c94db029fe74c0c6579
+      internalID: 5060761411125208827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammerne
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17889f74ab9db8e48b4b8b6c49678de6
+      internalID: -5542651182833167348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33806af1da0226459be4b5a0b88e763
+      internalID: -5961734624205732693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrier
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f91af82330e6c740a5976f2d66e7d85
+      internalID: 9044121336673116955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watch
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd40f9721fb06764a8e7f3cb2154cf4a
+      internalID: -1302094630695322359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiena's_staff
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d5a4452702bb8498f261191f04241c
+      internalID: 3834435255346115093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint's_staff
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d4e561f30b86c4ea7d31056f8ad011
+      internalID: 3605277459701692609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_key
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468c217b4cff45d439fbc63503345eee
+      internalID: -7917515509287211358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_key
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0910f6281d4f9f449c4a8edd17ddcc9
+      internalID: -7222886574473856895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge_key
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84792312cadd1048b80a7f09de64af1
+      internalID: -4700090927926351327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockpick
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b98017c34c8bd4aa97c7fa8dc344b7
+      internalID: 6314508757463362483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ring
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c7b35f047d0894a85ff2fefe25ec8f
+      internalID: -7939761124298244524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_ring
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac0e429b8864854bb87c56471d34307
+      internalID: 4210346602212083084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiding_ring
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fba220bc6b4e841bc1ecf2c2d38a47
+      internalID: 3544685270448732184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonshield
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b692244dcc06974eb176f71aebb4e74
+      internalID: -810046901923352246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_crest
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d79dba63744264db823598858d624c
+      internalID: -2472120055926370080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight's_crest
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de25d5196ed64c044a68dd6f3441f797
+      internalID: 5964578002811450202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29310f6f773df50428f8b2899cda9b72
+      internalID: 3888986671535299691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedwing
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d12f8569a9bf594c9efb4b2b6159f42
+      internalID: 5591229435904483802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: godess_icon
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b497c59a2946d264db41e3ddd317a022
+      internalID: 6493091084484187194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firestone
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a0f4ac3e757d54fbca06f1d51811d0
+      internalID: -1812274450374587648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divinestone
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a75406288d02f4892d37c144ad27cb
+      internalID: 3603218494319305338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talisman
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2b3ef3cac3f6d45b6caad32d7469c6
+      internalID: -7789609212867748921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_gem
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777167404fdc9504f823d3e06e5d2f27
+      internalID: 9157355821654373871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_gem
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e651572ebe224449b01619ddca79b5
+      internalID: 5774583741385265841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_gem
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff29e47ece5a3fb44bf97785f92d2d0a
+      internalID: -3143589595945348343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_gem
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ab6e004458416478057044da8e7c99
+      internalID: -7159707356373103736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_gem
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5282d4c54753c2141829cfbef3ecfec7
+      internalID: -9070860309571739083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: member_card
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f325273d4a05184494642196e32acfb
+      internalID: 6841806919332939840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silver_card
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94a2a406b8d43f418ee20d108fa5eb1
+      internalID: 4020820518640644614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vulnerary
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c54d14750e66ef49875b8a332527b1a
+      internalID: 3099662342988675458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elixir
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0fceb1247b7fe4c8fac03a52b6ae6d
+      internalID: -6267162564954228913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pure_water
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488391512224c4648af866e5b71d3a76
+      internalID: 2490432491220763586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antitoxin
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4508fc2086436854190624b30c691d1b
+      internalID: -4288410710918215881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38220184648b09a4fb0c13472f319c59
+      internalID: -4004090800227356229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delphi_shield
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79489376be69553448c3eb611767073f
+      internalID: -3338843032067401047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelic_robe
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86705dfbe065bb048b0abe325c3c0392
+      internalID: 1578078511310183280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orion's_bolt
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c91651798b3bb4e9583efb9d2b8752
+      internalID: -912202908753071966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elysian_whip
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b132fee565a474940bf1cc6698593359
+      internalID: 6949621276359654982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_breath
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44592950dae9b14c9c832402038f18a
+      internalID: 6357647138656082521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secret_book
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8713afb9021e0b649ba0c6298f59a483
+      internalID: 7714765165796668683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_item
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f350730f22530b48af536483eb83944
+      internalID: 9143032850372612229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunderstone
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfff5a4b697bef6489eb395468670670
+      internalID: -3750027816331632142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 00767937ce0b36141bb7a29a3054ca80
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

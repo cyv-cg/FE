@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_GeneratorAsset: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 9b3083ceb173fbb44a047fc6aec0f9ec, type: 3}
+  m_Name: Elixer
+  m_EditorClassIdentifier: 
+  icon: {fileID: -6267162564954228913, guid: 3032b4de0755d214cb0d84df473ce879, type: 3}
+  uses: 3
+  unbreakable: 0
+  cost: 3000
+  consumable: 1
+  healAmount: 9999

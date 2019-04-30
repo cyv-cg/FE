@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: 84b243cfbf3aa494e80160177c4d0e49
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - unitInTile: {instanceID: 0}
+  - headUp: {fileID: -6431191021820873016, guid: 88b962b56f7b3534a9f2019eaa4cfb1c,
+      type: 3}
+  - headDown: {fileID: 7149184409081430879, guid: 88b962b56f7b3534a9f2019eaa4cfb1c,
+      type: 3}
+  - headLeft: {fileID: 5626685082395153588, guid: 88b962b56f7b3534a9f2019eaa4cfb1c,
+      type: 3}
+  - headRight: {fileID: -3420372284000823890, guid: 88b962b56f7b3534a9f2019eaa4cfb1c,
+      type: 3}
+  - horizontal: {fileID: -3924764321631292049, guid: 88b962b56f7b3534a9f2019eaa4cfb1c,
+      type: 3}
+  - vertical: {fileID: -6522500167334906571, guid: 88b962b56f7b3534a9f2019eaa4cfb1c,
+      type: 3}
+  - tailUp: {fileID: -4056042124165624542, guid: 88b962b56f7b3534a9f2019eaa4cfb1c,
+      type: 3}
+  - tailDown: {fileID: 8090828941531586407, guid: 88b962b56f7b3534a9f2019eaa4cfb1c,
+      type: 3}
+  - tailLeft: {fileID: -5919443991595984680, guid: 88b962b56f7b3534a9f2019eaa4cfb1c,
+      type: 3}
+  - tailRight: {fileID: -9026882247434105732, guid: 88b962b56f7b3534a9f2019eaa4cfb1c,
+      type: 3}
+  - cornerNE: {fileID: -365146063655185062, guid: 88b962b56f7b3534a9f2019eaa4cfb1c,
+      type: 3}
+  - cornerSE: {fileID: -7713775155027695125, guid: 88b962b56f7b3534a9f2019eaa4cfb1c,
+      type: 3}
+  - cornerNW: {fileID: -8623957949668459592, guid: 88b962b56f7b3534a9f2019eaa4cfb1c,
+      type: 3}
+  - cornerSW: {fileID: -5629722016366059143, guid: 88b962b56f7b3534a9f2019eaa4cfb1c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

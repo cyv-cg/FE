@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - Map
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map_Layer00
+    uniqueID: 3448052477
+    locked: 0
+  - name: Map_Layer01
+    uniqueID: 2030005241
+    locked: 0
+  - name: Icon_Layer00
+    uniqueID: 15323035
+    locked: 0
+  - name: Icon_Layer01
+    uniqueID: 1264152101
+    locked: 0
+  - name: Unit
+    uniqueID: 4096269367
+    locked: 0
+  - name: Icon_Layer02
+    uniqueID: 3416492769
+    locked: 0
+  - name: Battle
+    uniqueID: 3225767133
+    locked: 0
