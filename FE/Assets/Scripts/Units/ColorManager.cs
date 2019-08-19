@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public static class ColorManager
+public class ColorManager
 {
     public static readonly Color[] Player = new Color[5]
     {

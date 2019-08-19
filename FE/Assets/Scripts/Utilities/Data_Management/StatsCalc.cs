@@ -94,6 +94,14 @@ public static class StatsCalc
     {
         return Random.Range(-int.MaxValue, int.MaxValue);
     }
+    public static int Seed(Vector2Int[] positions)
+    {
+        int sum = 0;
+        foreach (Vector2Int p in positions)
+            sum += p.x + p.y;
+
+        return sum;
+    }
 
     public static float ClassCrit(Unit.UnitClass unitClass)
     {

@@ -78,6 +78,11 @@ public class Fighter : MonoBehaviour, IQPathUnit
         //    Weapon = Unit.inventory.GetWeapons(true, this)[0];
     }
 
+    public bool Dead()
+    {
+        return CurrentHP <= 0;
+    }
+
     void LoadFromFile()
     {
         Unit = DataManager.FileToUnit(unitFile, true);

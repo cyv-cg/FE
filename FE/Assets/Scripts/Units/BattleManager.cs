@@ -76,7 +76,7 @@ public class BattleManager : MonoBehaviour
             Attacker = attacker;
             Defender = defender;
 
-            Seed = StatsCalc.Seed();
+            Seed = StatsCalc.Seed(new Vector2Int[2] { attacker.Position(), defender.Position() });
             Rand = new System.Random(Seed);
 
             IsPhysical = Attacker.Weapon.isPhysical;
@@ -173,8 +173,10 @@ public class BattleManager : MonoBehaviour
 
         if (counter)
         {
-            cnt1 = new Offensive(target, attacker);
-            cnt1.IsCounter = true;
+            cnt1 = new Offensive(target, attacker)
+            {
+                IsCounter = true
+            };
         }
         if (repeated)
             atk2 = new Offensive(attacker, target, true);
@@ -202,7 +204,7 @@ public class BattleManager : MonoBehaviour
 
         foreach (Offensive o in offensives)
         {
-            if (o != null && o.Attacker != null && o.Defender != null)
+            if (o != null && o.Attacker != null && o.Defender != null && !o.Attacker.Dead() && !o.Defender.Dead())
             {
                 Current = o;
                 yield return _Attack(o);
@@ -234,6 +236,14 @@ public class BattleManager : MonoBehaviour
 
         if (!offensive.Attacker.Weapon.unbreakable)
             offensive.Attacker.Weapon.uses--;
+
+        if (offensive.Defender == offensive.Attacker.LastTarget && offensive.Attacker.LastTarget != null)
+            offensive.Attacker.RepeatedTarget++;
+        else
+        {
+            offensive.Attacker.LastTarget = offensive.Defender;
+            offensive.Attacker.RepeatedTarget = 1;
+        }
 
         if (offensive.Attacker.CurrentHP <= 0)
             UnitManager.Kill(offensive.Attacker);

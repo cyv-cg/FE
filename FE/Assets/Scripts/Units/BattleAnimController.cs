@@ -22,7 +22,15 @@ public class BattleAnimController : MonoBehaviour
     
     public Animator Anim()
     {
-        return GetComponent<Animator>();
+        try
+        {
+            return GetComponent<Animator>();
+        }
+        catch
+        {
+            Debug.LogError("The unit being referenced is null");
+            return null;
+        }
     }
 
     public static IEnumerator WaitForBattleAnimation(BattleManager.Offensive atk)

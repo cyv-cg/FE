@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 0ec1010e5f9702642885b71baa2ea5c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3647271956922356453
+    second: Mage_F_Map00_Side_00
+  - first:
+      213: -4859272585728178578
+    second: Mage_F_Map00_Down_00
+  - first:
+      213: -7384237877295186549
+    second: Mage_F_Map00_Up_00
+  - first:
+      213: -4802414896042414260
+    second: Mage_F_Map00_Idle_00
+  - first:
+      213: 9052983797542194909
+    second: Mage_F_Map00_Side_01
+  - first:
+      213: -1419533116746438330
+    second: Mage_F_Map00_Down_01
+  - first:
+      213: -3920366572854651739
+    second: Mage_F_Map00_Up_01
+  - first:
+      213: 6181664612902442715
+    second: Mage_F_Map00_Selected_00
+  - first:
+      213: 2200038911447217367
+    second: Mage_F_Map00_Idle_01
+  - first:
+      213: -2086592858633463655
+    second: Mage_F_Map00_Side_02
+  - first:
+      213: -784644727723095579
+    second: Mage_F_Map00_Down_02
+  - first:
+      213: -2578500213872139503
+    second: Mage_F_Map00_Up_02
+  - first:
+      213: 6401102426375000317
+    second: Mage_F_Map00_Selected_01
+  - first:
+      213: 8336424810629638606
+    second: Mage_F_Map00_Idle_02
+  - first:
+      213: -3757631473306338863
+    second: Mage_F_Map00_Side_03
+  - first:
+      213: 2696145551288212525
+    second: Mage_F_Map00_Down_03
+  - first:
+      213: -7565919902584247272
+    second: Mage_F_Map00_Up_03
+  - first:
+      213: 395890254514290045
+    second: Mage_F_Map00_Selected_02
+  externalObjects: {}
+  serializedVersion: 8
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage_F_Map00_Side_00
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 100
+        width: 17
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d98370b16b699446a96b3cb5d4e1622
+      internalID: 3647271956922356453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Down_00
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 100
+        width: 18
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7c0fe0b8d3eb0469db866b586e4126
+      internalID: -4859272585728178578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Up_00
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 100
+        width: 18
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfc3026d7fc2fe488f02403b64277d6
+      internalID: -7384237877295186549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 67
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220e86350fcfa5149bc0a70faa910813
+      internalID: -4802414896042414260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Side_01
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 67
+        width: 17
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3689c08305ced924599b1939caa48925
+      internalID: 9052983797542194909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Down_01
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 67
+        width: 18
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636ead025316d9a4e97da08d09f816e4
+      internalID: -1419533116746438330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Up_01
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 67
+        width: 17
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a998edddb32cf448747d46ff7fc945
+      internalID: -3920366572854651739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Selected_00
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 67
+        width: 23
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cb3f92b1bfdf14592d5989b300b86d
+      internalID: 6181664612902442715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 34
+        width: 14
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2c31c2681d6bf41b30e695c2e009fd
+      internalID: 2200038911447217367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Side_02
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 34
+        width: 17
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e79080d1982304e935b3e51887179d
+      internalID: -2086592858633463655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Down_02
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 34
+        width: 17
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649293852b63cdf41ac982c1b2a2ec03
+      internalID: -784644727723095579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Up_02
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 34
+        width: 18
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a738de0ce7e1bd4ca1bae62b58cc823
+      internalID: -2578500213872139503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Selected_01
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 34
+        width: 18
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7b9545f13357d499447fa32db66518
+      internalID: 6401102426375000317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 14
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4056f7ccfcf8ce642ba1f1099c3e44aa
+      internalID: 8336424810629638606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Side_03
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 17
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1eab17b30d8bf4e94ecd747210bdd0
+      internalID: -3757631473306338863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Down_03
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 17
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7c8717ac374e449bdf0302374a1a8f
+      internalID: 2696145551288212525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Up_03
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1
+        width: 18
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe77b401bfcff954db85aacaaeb502ad
+      internalID: -7565919902584247272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_F_Map00_Selected_02
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a881505e05a23f04f895cbb325bafd2a
+      internalID: 395890254514290045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 54e5e68ff13445742a746ec91775e801
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -555,7 +555,7 @@ public static class DataManager
             return sprite.texture;
         }
     }
-    public static Sprite ConvertTexureToSprite(Texture2D texture)
+    public static Sprite ConvertTextureToSprite(Texture2D texture)
     {
         return Sprite.Create(texture, new Rect(0, 0, texture.width, texture.height), new Vector2(0, 0));
     }
